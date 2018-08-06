@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39a8dd0b-321e-4b22-8f2d-b61bf7402e61" name="motor-showroom" url="http://103.18.6.24">
+        <fileTransfer host="103.18.6.24" port="21" rootFolder="/hungkv.site/wp-content/plugins/motor-showroom">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

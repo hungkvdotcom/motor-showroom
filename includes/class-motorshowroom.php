@@ -92,13 +92,14 @@ final class MotorShowroom {
         /**
          * Core classes.
          */
-        include_once MS_ABSPATH . 'includes/class-ms-post-types.php';
+//        include_once MS_ABSPATH . 'includes/class-ms-post-types.php';
 
         /**
          * Core functions.
          */
         include_once MS_ABSPATH . 'includes/ms-menu-functions.php';
         include_once MS_ABSPATH . 'includes/ms-core-functions.php';
+        include_once MS_ABSPATH . 'includes/ms-post-types-functions.php';
     }
 
     /**
